@@ -1,7 +1,7 @@
 
 # MEETUP: Minería de datos en twitter para analizar eventos políticos y movimientos sociales.
 
-En este meetup aprenderemos con la guía de Dani de los Santos a trabajar con datos minados de redes sociales -como twitter- para cruzar con el contexto político social y militancia, para así poder representarlos y plotearlos.
+En este meetup aprenderemos con la guía de Dani de los Santos a trabajar con datos minados de redes sociales -como twitter- para cruzar con el contexto político social y militancia, para así poder representarlos y plotearlos. El material que se muestra en este repositorio es propiedad de [Dani de los Santos](https://github.com/danidlsa) que fue quien elaboró y guió el evento.
 
 
 #### Package requerida
