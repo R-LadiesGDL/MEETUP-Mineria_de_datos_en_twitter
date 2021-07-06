@@ -18,7 +18,7 @@ library(zoo)
 ```
 
 
-#### Recuerda que además de encontrar los archivos del código de la sesión también se encuentra el material introductorio en "Presentación-introductoria.html". (https://github.com/R-LadiesGDL/MEETUP-Mineria_de_datos_en_twitter/blob/bea38a1a22639823a0b4e3bc257a0bde6d9fe4b7/Presentaci%C3%B3n-introductoria.html)
+#### Recuerda que además de encontrar los archivos del código de la sesión también se encuentra el material introductorio en "Presentación-introductoria.html" [aquí](https://github.com/R-LadiesGDL/MEETUP-Mineria_de_datos_en_twitter/blob/bea38a1a22639823a0b4e3bc257a0bde6d9fe4b7/Presentaci%C3%B3n-introductoria.html)
 
 
 
