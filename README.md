@@ -17,7 +17,7 @@ library(networkD3)
 library(zoo)
 ```
 
-### Recuerda que además de encontrar los archivos del código de la sesión también se encuentra el material del evento.
+### Recuerda que además de encontrar los archivos del código de la sesión también se encuentra el material del evento "Presentación-introductoria.html".
 
 #
 
