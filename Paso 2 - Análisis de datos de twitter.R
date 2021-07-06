@@ -188,5 +188,5 @@ forceNetwork(Links = vinculos, Nodes = nodos,
              Nodesize = "n", colourScale = my_color
             )
 
-# Llegamos al final! Gracias!
+# Llegamos al final! Gracias! 
 
