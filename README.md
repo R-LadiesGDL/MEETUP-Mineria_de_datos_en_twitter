@@ -6,7 +6,8 @@ En este meetup aprenderemos con la guía de Dani de los Santos a trabajar con da
 
 #### Package requerida
 ```
-install.packages(c("rtweet", "tidyverse", "tm", "ggwordcloud", "igraph", "networkD3", "zoo"))
+install.packages(c("rtweet", "tidyverse", "tm", 
+                   "ggwordcloud", "igraph", "networkD3", "zoo"))
 
 library(rtweet)
 library(tidyverse)
