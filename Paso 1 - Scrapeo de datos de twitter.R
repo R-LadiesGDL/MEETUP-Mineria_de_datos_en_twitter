@@ -63,4 +63,4 @@ help(rtweet)
 
 
 # Veamos, ahora, qué tipo de análisis podemos hacer con esto...
-# Para eso, vamos al script "Paso 2".
+# Para eso, vamos al script "Paso 2". 
